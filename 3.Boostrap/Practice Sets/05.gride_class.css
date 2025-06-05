@@ -1,0 +1,49 @@
+.container
+{
+    border: 0px solid black;
+}
+.row
+{
+    border: 0px solid green;
+    background-color: lightblue;
+}
+.col
+{
+    border: 0px solid black;
+    background-color: lightpink;
+}
+#header
+{
+    background-color: orange;
+}
+
+#menu
+{
+    background-color: pink;
+}
+#menu ul
+{
+    list-style: none;
+    margin: 0px;
+}
+#menu ul li
+{
+    display: inline-block;
+}
+a
+{
+    text-decoration: none;
+}
+
+#content
+{
+    background-color: white;
+}
+#sidebar
+{
+    background-color: lightblue;
+}
+#footer
+{
+    background-color: orange;
+}
