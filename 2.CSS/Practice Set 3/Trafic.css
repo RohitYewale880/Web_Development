@@ -1,0 +1,42 @@
+#Border
+{
+    margin-left: 42%;
+    height: 352px;
+    width: 150px;
+    background-color: rgb(12, 3, 3);
+    border-width:2PX ;
+    border-radius: 15px;
+    margin-top: 25px;
+}
+#red
+{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#yello
+{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#green
+{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
